@@ -10,9 +10,7 @@ Természetesen a repository önmagában is használható. A notebook-ok futtatá
 
 ## Kvantumszámítógépek programozása
 
-A qiskit bevezető óra Notebook-ja: [Qiskit intro](kvantumszamitogepek_programozasa/qiskit_bevezetes/qiskit_intro.ipynb)
-
-A qiskit-tel foglalkozó második óra: [Qiskit 2. rész](kvantumszamitogepek_programozasa/qiskit_es_ibm/qiskit_es_ibm.ipynb)
+A qiskit-tel foglalkozó óra: [Qiskit 2. rész](kvantumszamitogepek_programozasa/qiskit_es_ibm/qiskit_es_ibm.ipynb)
 
 ## Kvantuminformatika és -kommunikáció:
 
