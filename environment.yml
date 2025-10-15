@@ -8,3 +8,4 @@ dependencies:
     - qiskit[visualization]
     - qiskit-ibm-runtime
     - qiskit-aer
+    - cirq
